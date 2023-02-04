@@ -28,7 +28,7 @@ const sections = [
 {
 title: `𝗟𝗜𝗦𝗧𝗔 𝗗𝗘 𝗠𝗘𝗡𝗨𝗦`,
 rows: [
-      {title: "ꨄ︎𝗦𝗛𝗜𝗭𝗨-𝗛𝗨𝗕ꨄ︎", description: '𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗢 𝗗𝗘𝗟 𝗖𝗥𝗘𝗔𝗗𝗢𝗥', rowId: `${usedPrefix}donar`},
+      {title: "ꨄ︎𝐙𝐄𝐄𝐒𝐇𝐀𝐍-KINGꨄ︎", description: '𝗖𝗢𝗡𝗧𝗔𝗖𝗧𝗢 𝗗𝗘𝗟 𝗖𝗥𝗘𝗔𝗗𝗢𝗥', rowId: `${usedPrefix}donar`},
       {title: "✪𝗛𝗜𝗥𝗢✪ ", description: '𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗼', rowId: `${usedPrefix}hiro`},
       {title: "✪𝗗𝗔𝗠𝗜𝗔𝗡✪", description: '𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗼', rowId: `${usedPrefix}damian`},
       {title: "<𝘅𝗗>", description: '𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗼', rowId: `${usedPrefix}xd`},
@@ -42,7 +42,7 @@ text: `*ミ💖 𝗛𝗢𝗟𝗔 _${name}_ 💖彡*
 ┃    𝗕 𝗢 𝗧*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ 𝗖𝗥𝗘𝗔𝗗𝗢𝗥
-┣ ꨄ︎𝗦𝗛𝗜𝗭𝗨-𝗛𝗨𝗕ꨄ︎
+┣ ꨄ︎𝐙𝐄𝐄𝐒𝐇𝐀𝐍-KINGꨄ︎
 ┣ 𝗖𝗢𝗟𝗔𝗕𝗢𝗥𝗔𝗗𝗢𝗥 𝗡𝗢•1
 ┣ ✪𝗛𝗜𝗥𝗢✪ 
 ┣ 𝗖𝗢𝗟𝗔𝗕𝗢𝗥𝗔𝗗𝗢𝗥 𝗡𝗢•2
